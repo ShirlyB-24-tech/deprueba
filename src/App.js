@@ -11,19 +11,24 @@ function App() {
       <footer>
         {" "}
         This project was coded by
-        <a href="https://github.com/ShirlyB-24-tech/" target="_blank">
+        <a
+          href="https://github.com/ShirlyB-24-tech/"
+          target="_blank"
+          rel="noreferrer"
+        >
           {" "}
           Shirly B.
         </a>
         , is {""}{" "}
         <a
-          href="https://github.com/ShirlyB-24-tech/del-Tiempoapp"
+          href="https://github.com/ShirlyB-24-tech/deprueba"
           target="_blank"
+          rel="noreferrer"
         >
           open-sourced on GitHub
         </a>{" "}
         and {""}
-        <a href="#" target="_blank">
+        <a href="#" target="_blank" rel="noreferrer">
           hosted on Netlify
         </a>
       </footer>
