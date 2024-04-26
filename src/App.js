@@ -28,7 +28,7 @@ function App() {
           open-sourced on GitHub
         </a>{" "}
         and {""}
-        <a href="#" target="_blank" rel="noreferrer">
+        <a href="https://app.netlify.com" target="_blank" rel="noreferrer">
           hosted on Netlify
         </a>
       </footer>
